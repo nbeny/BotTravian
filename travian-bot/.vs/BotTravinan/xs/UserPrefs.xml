@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0689292A-8A17-419A-B0C0-E8EA9B932A41}|Default">
+  <MonoDevelop.Ide.ItemProperties.BotTravinan PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BotTravinan/Program.cs">
+    <Files>
+      <File FileName="BotTravinan/Travian/Travian.cs" Line="2" Column="18" />
+      <File FileName="BotTravinan/Travian/Ressources.cs" Line="2" Column="18" />
+      <File FileName="BotTravinan/Travian/Champs.cs" Line="2" Column="18" />
+      <File FileName="BotTravinan/Travian/CentreDuVillage.cs" Line="3" Column="21" />
+      <File FileName="BotTravinan/Travian/Carte.cs" Line="2" Column="18" />
+      <File FileName="BotTravinan/Travian/Champs/MinesRoche.cs" Line="2" Column="18" />
+      <File FileName="BotTravinan/Travian/Champs/MinesArgile.cs" Line="2" Column="18" />
+      <File FileName="BotTravinan/Travian/Champs/Foret.cs" Line="2" Column="18" />
+      <File FileName="BotTravinan/Travian/Champs/Ferme.cs" Line="2" Column="18" />
+      <File FileName="BotTravinan/Travian/Batiments/Principal.cs" Line="2" Column="18" />
+      <File FileName="BotTravinan/Travian/Batiments/Batiment.cs" Line="2" Column="18" />
+      <File FileName="BotTravinan/Program.cs" Line="121" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
